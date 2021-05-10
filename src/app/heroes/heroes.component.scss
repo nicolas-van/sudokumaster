@@ -1,0 +1,8 @@
+
+.heroes {
+  &__hero {
+    &--selected {
+      background-color: blue;
+    }
+  }
+}
